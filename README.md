@@ -53,9 +53,17 @@ pip install -r requirements.txt
 python3 token_counter.py
 
 ##Examples 
-(screenshots/regular.png)
-(screenshots/char.png)
-(screenshots/repeat.png)
+### Regular prompt
+
+![Regular prompt example](screenshots/regular.png)
+
+### Repetitive words
+
+![Repetitive words example](screenshots/repeat.png)
+
+### Repetitive characters
+
+![Repetitive characters example](screenshots/char.png)
 
 
 
